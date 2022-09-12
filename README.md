@@ -70,7 +70,14 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+False data from companies to make their products or activities look better in the app. 
+
+Greenwashing - for example a company focusing its marketing on particular product standing well in app or even being recommended by it while producing other goods with significantly worse score.
+
+A big chunk of different data (products details, energetic specifics about local gym, information about public transports in thousands of cities). The model could work better on some part of the data and poorly on another. In fact the amount would probably be overwhelming at the beginning and the app would have to start with fewer categories.
+
+Using more criteria to measure our impact on the environment apart from carbon emissions, for example amount of water used, lesser waste production etc.
+
 
 ## What next?
 
