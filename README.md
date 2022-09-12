@@ -88,9 +88,11 @@ And suggestions for optimization.
 ## Acknowledgments
 
 Sources of inspiration:
-*Our world in data (https://ourworldindata.org)
-	*especially FAQ on plastics (https://ourworldindata.org/faq-on-plastics#are-plastic-alternatives-better-for-the-environment)
-*Podcast “Za humny” (https://open.spotify.com/show/5ijP5ndQ4zzHoGXRFBtW16?si=274d862e0e474b47)
-	*especially episode 37
-*CDP reports (https://www.cdp.net/en/)
+
+Our world in data (https://ourworldindata.org, especially FAQ on plastics (https://ourworldindata.org/faq-on-plastics#are-plastic-alternatives-better-for-the-environment)
+
+Podcast “Za humny” (https://open.spotify.com/show/5ijP5ndQ4zzHoGXRFBtW16?si=274d862e0e474b47), especially episode 37
+
+CDP reports (https://www.cdp.net/en/)
+
 
