@@ -74,7 +74,7 @@ What does your project _not_ solve? Which limitations and ethical considerations
 
 ## What next?
 
-No matter how important is a behavior of a single person the biggest producers of carbon emissions are large companies. According to CDP reports (1) 100 global companies produce 71 % of all carbon emissions in the world. This app should be an opening which would show people how complex an ecological behavior could be and give us a hint where to put pressure on companies. But a real impact would be making such app for those businesses, for their products, goods and services. 
+No matter how important is a behavior of a single person the biggest producers of carbon emissions are large companies. According to CDP reports (https://www.cdp.net/en/articles/media/new-report-shows-just-100-companies-are-source-of-over-70-of-emissions) 100 global companies produce 71 % of all carbon emissions in the world. This app should be an opening which would show people how complex an ecological behavior could be and give us a hint where to put pressure on companies. But a real impact would be making such app for those businesses, for their products, goods and services. 
 
 The variation of the app for companies should include:
 Materials used
@@ -87,8 +87,10 @@ And suggestions for optimization.
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Sources of inspiration:
+*Our world in data (https://ourworldindata.org)
+	*especially FAQ on plastics (https://ourworldindata.org/faq-on-plastics#are-plastic-alternatives-better-for-the-environment)
+*Podcast “Za humny” (https://open.spotify.com/show/5ijP5ndQ4zzHoGXRFBtW16?si=274d862e0e474b47)
+	*especially episode 37
+*CDP reports (https://www.cdp.net/en/)
+
