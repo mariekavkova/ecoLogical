@@ -74,8 +74,16 @@ What does your project _not_ solve? Which limitations and ethical considerations
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+No matter how important is a behavior of a single person the biggest producers of carbon emissions are large companies. According to CDP reports (1) 100 global companies produce 71 % of all carbon emissions in the world. This app should be an opening which would show people how complex an ecological behavior could be and give us a hint where to put pressure on companies. But a real impact would be making such app for those businesses, for their products, goods and services. 
 
+The variation of the app for companies should include:
+Materials used
+Production process
+Buildings
+Packaging
+Trasportation
+Business partners
+And suggestions for optimization.
 
 ## Acknowledgments
 
