@@ -20,15 +20,16 @@ An application ecoLogical? would use AI to guide us through our complex world an
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Imagine going to the grocery store to buy some apples. Immediately you face a decision whether to use a plastic bag or a cotton one newly produced by the store claiming it is an ecological option. But is it true? Should you choose it? 
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Let’s take a look at those statistics from Our world in data of how many times do we need to reuse this cotton bag to have as low greenhouse gas emissions as a single-use plastic bag (https://ourworldindata.org/faq-on-plastics#are-plastic-alternatives-better-for-the-environment). It is almost 52 times and for combined environmental effect (using several criteria such as ozone depletion or water resource depletion, etc.) it is even 7100 times! 
 
 ![grocery](grocery-bag-comparisons-ghg.png)
 ![grocery.env.](grocery-bag-environmental-impact.png)
+
+So is this really ecological? You would probably grab a plastic bag next time you go shopping and however plastics really tend to have less overall impact there are exceptions - marine pollution and non-degradability issues of plastics. This non-degradability is a positive feature when we want to store our food for a longer time but problematic once it gets in the ocean. Which material is the best depends on the metrics as well as on a purpose. In other words we are trying to make sense from a lot of data and AI is a perfect tool for such task.
+
+As a millennial I notice a growing interest in my generation to adjust our everyday lives to be less harmful for the environment. A feature that would be even more pronounced in future generations, remember Fridays for future. But I would like to make decisions based on complex data processing instead of randomly follow greenwashed ads.
 
 ## How is it used?
 
@@ -36,10 +37,8 @@ Describe the process of using the solution. In what kind situations is the solut
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-![grocery-bag-comparisons-ghg.png]
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+
+
 
 This is how you create code examples:
 ```
@@ -102,7 +101,7 @@ And suggestions for optimization.
 
 Sources of inspiration:
 
-Our world in data (https://ourworldindata.org, especially FAQ on plastics (https://ourworldindata.org/faq-on-plastics#are-plastic-alternatives-better-for-the-environment)
+Our world in data (https://ourworldindata.org, especially FAQ on plastics 
 
 Podcast “Za humny” (https://open.spotify.com/show/5ijP5ndQ4zzHoGXRFBtW16?si=274d862e0e474b47), especially episode 37
 
