@@ -27,7 +27,7 @@ This is how you make a list, if you need one:
 * problem 2
 * etc.
 
-[
+![grocery](grocery-bag-comparisons-ghg.png)
 
 
 ## How is it used?
