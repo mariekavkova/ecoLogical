@@ -33,30 +33,24 @@ As a millennial I notice a growing interest in my generation to adjust our every
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+For purpose of this project I sorted our everyday life in categories:
+   Products 
+      Basically things we can buy with money that we are using (food, furniture, tools, books,…)
+   Activities 
+      Sports, hobbies, walking with your dog, watching TV
+   Travelling
+      Every transfer we make throughout a day
+   Housing
+   Job
+      Work place, company we work for and its impact on environment
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-
-
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+To make it easier we will use carbon emissions produced at each activity as our criteria. The outcome should be an app which based on categories mentioned earlier would show us an impact our behavior has on carbon emissions and suggest better solutions. 
+It should specifically show: 
+   A whole journey of a product from production to the moment we buy it in a shop.  Or what are the necessities for an activity we are doing
+   
+   count carbon emissions this product or activity has
+   
+   show alternatives
 
 
 ## Data sources and AI methods
