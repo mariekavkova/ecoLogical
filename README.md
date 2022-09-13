@@ -36,21 +36,19 @@ As a millennial I notice a growing interest in my generation to adjust our every
 For purpose of this project I sorted our everyday life in categories:
    * Products 
       * Basically things we can buy with money that we are using (food, furniture, tools, books,…)
-   Activities 
-      Sports, hobbies, walking with your dog, watching TV
-   Travelling
-      Every transfer we make throughout a day
-   Housing
-   Job
-      Work place, company we work for and its impact on environment
+   * Activities 
+      * Sports, hobbies, walking with your dog, watching TV
+   * Travelling
+      * Every transfer we make throughout a day
+   * Housing
+   * Job
+      * Work place, company we work for and its impact on environment
 
 To make it easier we will use carbon emissions produced at each activity as our criteria. The outcome should be an app which based on categories mentioned earlier would show us an impact our behavior has on carbon emissions and suggest better solutions. 
 It should specifically show: 
-   A whole journey of a product from production to the moment we buy it in a shop.  Or what are the necessities for an activity we are doing
-   
-   count carbon emissions this product or activity has
-   
-   show alternatives
+   * A whole journey of a product from production to the moment we buy it in a shop.  Or what are the necessities for an activity we are doing
+   * count carbon emissions this product or activity has
+   * show alternatives
 
 
 ## Data sources and AI methods
