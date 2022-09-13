@@ -28,7 +28,7 @@ This is how you make a list, if you need one:
 * etc.
 
 ![grocery](grocery-bag-comparisons-ghg.png)
-
+![grocery.env.](grocery-bag-environmental-impact.png)
 
 ## How is it used?
 
