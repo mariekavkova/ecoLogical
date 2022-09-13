@@ -27,7 +27,7 @@ This is how you make a list, if you need one:
 * problem 2
 * etc.
 
-https://ourworldindata.org/grapher/grocery-bag-comparisons-ghg
+<iframe src="https://ourworldindata.org/grapher/grocery-bag-comparisons-ghg" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 
 ## How is it used?
