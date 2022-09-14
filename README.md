@@ -50,6 +50,7 @@ It should specifically show:
    * count carbon emissions this product or activity has
    * show alternatives
 
+Educational purpose - seeing how complex could be a journey of a chocolate bar from chocolate beans to a shelf in our local shop could not only change some of our behaviors but inspire us to activelly seeking solutions with less impact on our planet and acknowledge power of AI for processing big amount of data.
 
 ## Data sources and AI methods
 1st step - what activities, products etc. we would like to run through the app? We can either:
@@ -64,10 +65,12 @@ or
 
   * There are product specifics, studies, energy balance of certain types of buildings or information about carbon emissions produced by a car type we are driving. They are all over the internet, to browse them by ourselves would take too much time, we can use AI to quickly gather the information (we can use for example 3 different reliable sources). Some data could be acquired directly from companies, willing to participate on the project.
 
-3rd step - data processing - after collecting data the app would calculate an amount of carbon emissions each item produces
+3rd step - data processing
+  * after collecting data the app would calculate an amount of carbon emissions each item produces
 
-4th step - suggestions - the app should be able to suggest alternatives for products or activities. It could give us a overall of our whole day showing the activities with biggest impact. We can use filters, tag activities we don’t want to change, browse different options.
-
+4th step - suggestions
+  * the app should be able to suggest alternatives for products or activities. It could give us a overall of our whole day showing the activities with biggest impact. We can use filters, tag activities we don’t want to change, browse different options.
+  * This part would require reinforcement learning techniques, when the goal of the model would be to obtain the smallest amount of carbon emissions or other metrics (water requirements, etc.) 
 
 ## Challenges
 
