@@ -52,14 +52,22 @@ It should specifically show:
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+1st step - what activities, products etc. we would like to run through the app? We can either:
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+* Manually typing items in
+
+or
+
+* Connect it with our online calendars, shopping list we save in our phones, bank account records to screen goods we bought, streaming time on TV
+
+2nd step - acquire data to count carbon emissions or other metrics
+
+  * There are product specifics, studies, energy balance of certain types of buildings or information about carbon emissions produced by a car type we are driving. They are all over the internet, to browse them by ourselves would take too much time, we can use AI to quickly gather the information (we can use for example 3 different reliable sources). Some data could be acquired directly from companies, willing to participate on the project.
+
+3rd step - data processing - after collecting data the app would calculate an amount of carbon emissions each item produces
+
+4th step - suggestions - the app should be able to suggest alternatives for products or activities. It could give us a overall of our whole day showing the activities with biggest impact. We can use filters, tag activities we don’t want to change, browse different options.
+
 
 ## Challenges
 
@@ -81,13 +89,13 @@ Cost - alternatives recommended by the app may not be financially available for 
 No matter how important is a behavior of a single person the biggest producers of carbon emissions are large companies. According to CDP reports (https://www.cdp.net/en/articles/media/new-report-shows-just-100-companies-are-source-of-over-70-of-emissions) 100 global companies produce 71 % of all carbon emissions in the world. This app should be an opening which would show people how complex an ecological behavior could be and give us a hint where to put pressure on companies. But a real impact would be making such app for those businesses, for their products, goods and services. 
 
 The variation of the app for companies should include:
-Materials used
-Production process
-Buildings
-Packaging
-Trasportation
-Business partners
-And suggestions for optimization.
+* Materials used
+* Production process
+* Buildings
+* Packaging
+* Trasportation
+* Business partners
+* And suggestions for optimization.
 
 ## Acknowledgments
 
