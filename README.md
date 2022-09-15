@@ -11,7 +11,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Plastic or paper? Meat or veggies? Car or bus?
 More and more people try to reduce an impact we as a humanity has on our planet by changing their lifestyles and prefering environment friendly options such as recycling, using less plastic, eating plant based meals or prefering public transportation. But are those solutions allways the best? Is it really better to use cotton bag for storing rice instead of plastic?  What if producing this cotton bag costs a lot more emissions? What if it uses a lot more water or you have to transport those bags at long distance?
 
-We tend to look solely on a final product and do not realize the complex mechanisms behind it. But what if we have a tool which would show us the whole journey of a product from materials used, through fabrication and finally packaging and transport or an impact a sport activity or other hobbies have on our environment and suggest more environment conscious alternatives. 
+We tend to look solely on a final product and do not realize the complex mechanisms behind it. But what if we have a tool which would show us the whole journey of a product from materials used, through fabrication and finally packaging and transport or an impact a sport activity or other hobbies have on our environment and suggest alternatives. 
 
 An application ecoLogical? would use AI to guide us through our complex world and help reduce carbon emissions and other effects we have on our planet.
 
