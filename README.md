@@ -33,7 +33,7 @@ As a millennial I notice a growing interest in my generation to adjust our every
 
 ## How is it used?
 
-For purpose of this project I sorted our everyday life in categories:
+For purpose of this project I sorted out our everyday life in categories:
    * Products 
       * Basically things we can buy with money that we are using (food, furniture, tools, books,…)
    * Activities 
