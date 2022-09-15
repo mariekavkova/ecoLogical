@@ -80,7 +80,7 @@ Greenwashing - for example a company focusing its marketing on particular produc
 
 A big chunk of different data (products details, energetic specifics about local gym, information about public transportation in thousands of cities). The model could work better on some part of the data and poorly on another. In fact the amount would probably be overwhelming at the beginning and the app would have to start with fewer categories.
 
-Security issues - a decent security system would be a non negotiable part of the app, because of sensitive data about our everyday lives
+Security issues - a decent security system would be a non negotiable part of the app, because of the sensitive data about our everyday lives
 
 Using more criteria to measure our impact on the environment apart from carbon emissions, for example amount of water used, lesser waste production etc.
 
