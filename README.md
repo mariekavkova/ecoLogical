@@ -66,7 +66,7 @@ or
   * There are product specifics, studies, information on energy balance of certain types of buildings or about carbon emissions produced by a car type we are driving. They are all over the internet, to browse them by ourselves would take too much time, but we can use AI to quickly gather the information (using for example 3 different reliable sources). Some data could be acquired directly from companies, willing to participate on the project.
 
 3rd step - data processing
-  * after collecting data the app would calculate an amount of carbon emissions (or other metricsú each item produces
+  * after collecting data the app would calculate an amount of carbon emissions (or other metrics) each item produces
 
 4th step - suggestions
   * the app should be able to suggest alternatives for products or activities. It could give us a overall of our whole day showing the activities with biggest impact. We can use filters, tag activities we don’t want to change, browse different options.
