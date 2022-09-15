@@ -22,12 +22,12 @@ An application ecoLogical? would use AI to guide us through our complex world an
 
 Imagine going to the grocery store to buy some apples. Immediately you face a decision whether to use a plastic bag or a cotton one newly produced by the store claiming it is an ecological option. But is it true? Should you choose it? 
 
-Let’s take a look at those statistics from Our world in data of how many times do we need to reuse this cotton bag to have as low greenhouse gas emissions as a single-use plastic bag (https://ourworldindata.org/faq-on-plastics#are-plastic-alternatives-better-for-the-environment). It is almost 52 times and for combined environmental effect (using several criteria such as ozone depletion or water resource depletion, etc.) it is even 7100 times! 
+Let’s take a look at those statistics from Our world in data of how many times do we need to reuse this cotton bag to have as low greenhouse gas emissions as a single-use plastic bag (https://ourworldindata.org/faq-on-plastics#are-plastic-alternatives-better-for-the-environment). It is almost 52 times, that sounds realistic but for combined environmental effect (using several criteria such as ozone depletion or water resource depletion, etc.) it is 7100 times! Would the cotton bag withstand this long? And what about reusing the plastic bag.
 
 ![grocery](grocery-bag-comparisons-ghg.png)
 ![grocery.env.](grocery-bag-environmental-impact.png)
 
-So is this really ecological? You would probably grab a plastic bag next time you go shopping and however plastics really tend to have less overall impact there are exceptions - marine pollution and non-degradability issues of plastics. This non-degradability is a positive feature when we want to store our food for a longer time but problematic once it gets in the ocean. Which material is the best depends on the metrics as well as on a purpose. In other words we are trying to make sense from a lot of data and AI is a perfect tool for such task.
+So is this really ecological? You may grab a plastic bag next time you go shopping but however plastics really tend to have less overall impact there are exceptions - marine pollution and its non-degradability. The non-degradability is a positive feature when we want to store our food for a longer time but problematic once the plastic gets in the ocean. Which material is the best depends on the metrics as well as on a purpose. In other words we are trying to make sense from a lot of data and AI is a perfect tool for such task.
 
 As a millennial I notice a growing interest in my generation to adjust our everyday lives to be less harmful for the environment. A feature that would be even more pronounced in future generations, remember Fridays for future. But I would like to make decisions based on complex data processing instead of randomly follow greenwashed ads.
 
