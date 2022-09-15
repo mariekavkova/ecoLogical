@@ -55,7 +55,7 @@ Educational purpose - seeing how complex could be a journey of a chocolate bar f
 ## Data sources and AI methods
 1st step - what activities, products etc. we would like to run through the app? We can either:
 
-* Manually typing items in
+* Manually type items in
 
 or
 
