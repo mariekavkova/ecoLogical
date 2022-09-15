@@ -104,7 +104,7 @@ The variation of the app for companies should include:
 
 Sources of inspiration:
 
-Our world in data (https://ourworldindata.org 
+Our world in data (https://ourworldindata.org) 
 
 Podcast “Za humny” (https://open.spotify.com/show/5ijP5ndQ4zzHoGXRFBtW16?si=274d862e0e474b47), especially episode 37
 
