@@ -63,7 +63,7 @@ or
 
 2nd step - acquire data to count carbon emissions or other metrics
 
-  * There are product specifics, studies, energy balance of certain types of buildings or information about carbon emissions produced by a car type we are driving. They are all over the internet, to browse them by ourselves would take too much time, we can use AI to quickly gather the information (we can use for example 3 different reliable sources). Some data could be acquired directly from companies, willing to participate on the project.
+  * There are product specifics, studies, information on energy balance of certain types of buildings or about carbon emissions produced by a car type we are driving. They are all over the internet, to browse them by ourselves would take too much time, we can use AI to quickly gather the information (we can use for example 3 different reliable sources). Some data could be acquired directly from companies, willing to participate on the project.
 
 3rd step - data processing
   * after collecting data the app would calculate an amount of carbon emissions each item produces
